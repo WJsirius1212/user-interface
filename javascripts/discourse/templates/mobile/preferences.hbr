@@ -1,4 +1,4 @@
- {{#d-section pageClass="user-preferences" class="user-secondary-navigation"}}
+  {{#d-section pageClass="user-preferences" class="user-secondary-navigation"}}
         {{#mobile-nav class="preferences-nav" desktopClass="preferences-list action-list nav-stacked"}}
         <li class="nav-account">
             {{#link-to "preferences.account"}}
